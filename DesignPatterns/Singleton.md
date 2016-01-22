@@ -10,7 +10,8 @@ Do not overuse this pattern!
 
 class Bliss {
   static let sharedManager = Bliss()
-  private init() {}  // A private init prevents creation of instances, thus ensuring that just one instance is created.
+  private init() {}  
+  // A private init prevents creation of instances, thus ensuring that just one instance is created.
 }
 
 ```
