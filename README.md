@@ -6,7 +6,7 @@
 
 ### Design Patterns
 
-* Singleton
+* [Singleton](DesignPatterns/Singleton.md)
 
 
 # To Do:
