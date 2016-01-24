@@ -8,6 +8,10 @@
 
 * [Singleton](DesignPatterns/Singleton.md)
 
+### Resources
+
+* [Protocols](Resources/Protocols.md)
+
 
 # To Do:
 - [ ] Adopt Swift style and conventions. (https://github.com/realm/SwiftLint)
