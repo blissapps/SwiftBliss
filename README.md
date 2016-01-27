@@ -36,7 +36,7 @@
 * [Ray Wenderlich](http://www.raywenderlich.com/) - iOS Tutorials, Books, Articles, etc
 * [Shrikar Archak](http://shrikar.com/) - iOS Tutorials
 * [AppCoda](http://www.appcoda.com/) - iOS Tutorials, Books, Articles
-* [objc io](tps://www.objc.io) - iOS Tutorials, Books, Articles
+* [objc.io](htps://www.objc.io/) - iOS Tutorials, Books, Articles
 * [Big Nerd Ranch](https://www.bignerdranch.com/) - iOS Tutorials, Books, Articles
 * [Ali Software](http://alisoftware.github.io/) - iOS Tutorials, Articles
 * [Matt Hollemans](http://matthijshollemans.com/) - Articles
