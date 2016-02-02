@@ -93,6 +93,7 @@
 * [Ali Software](http://alisoftware.github.io/) - iOS Tutorials, Articles
 * [Matt Hollemans](http://matthijshollemans.com/) - Articles
 * [iPetrovich](http://ipetrovich.blogspot.pt/) - Books
+* [FRP iOS Learning Resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 # To Do:
 - [ ] Adopt Swift style and conventions. (https://github.com/realm/SwiftLint)
