@@ -39,6 +39,17 @@
 * [Singleton](DesignPatterns/Singleton.md)
 * [Protocols](DesignPatterns/Protocols.md)
 
+### Must Read Articles
+
+#### General stuff 
+
+* [iOS Architecture Patters](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.sqm7m18sq) - Demystifying MVC, MVP, MVVM and VIPER
+
+#### Swift, a protocol-oriented programming language 
+
+* [Mixins&Traits](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/) - Mixins over inheritance in Swift 
+* [UIStoryboardsSafer](https://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d#.tv7mosmfh) - UIStoryboard: Safer with Enums, Protocol Extensions and Generics
+
 ### Resources
 
 #####Lib repositories
