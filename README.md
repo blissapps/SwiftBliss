@@ -61,6 +61,10 @@
 * [Mixins&Traits](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/) - Mixins over inheritance in Swift 
 * [UIStoryboardsSafer](https://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d#.tv7mosmfh) - UIStoryboard: Safer with Enums, Protocol Extensions and Generics
 
+#### Test-Driven Development 
+
+* [RedGreenRefactor](http://www.santeon.com/insight-blog/video-and-article/33-insight-blog/video-and-article/229-test-driven-development-red-green-refactor#.VrCOTDaLSV5) - Article about the TDD pattern Red-Green-Refactor
+
 ## Resources
 
 #####Lib repositories
