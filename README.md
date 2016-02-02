@@ -16,23 +16,34 @@
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - Flat Color Framework.
 * [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - Drop in progress HUD for multiple purposes.
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop in viewcontroller to use in messaging apps, developed by Slack.
-* [SnapKit](https://github.com/SnapKit/SnapKit) - Use autolayout in code easily
-* [Spring](https://github.com/MengTo/Spring) - Implement animations seamlessly
-* [iOSCharts](https://github.com/danielgindi/ios-charts) - Multiple chart types for iOS
+* [SnapKit](https://github.com/SnapKit/SnapKit) - Use autolayout in code easily.
+* [Spring](https://github.com/MengTo/Spring) - Implement animations seamlessly.
+* [iOSCharts](https://github.com/danielgindi/ios-charts) - Multiple chart types for iOS.
 
 ##### Persistance
 
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Easy way to use CoreData.
+* [Realm](https://realm.io/) - (Better) Alternative to CoreData.
 
 ##### Testing
 
 * [Quick](https://github.com/Quick/Quick) - Testing framework for both swift and Objective-C
 
+##### Reactive Programming
+
+* [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift for iOS, OSX, TVOS and WatchOS
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Reactive programming for iOS, OSX, TVOS and WatchOS
+
+##### Logging
+
+* [Aspen](https://github.com/justin/Aspen) - Logging framework.
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - Simple logging framework for Mac and iOS.
+
 ##### Misc
 
-* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Keychain Access Framework
-* [IAPHelper](https://github.com/saturngod/IAPHelper) - In App Purchases iOS Helper
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Reactive programming for iOS, OSX, TVOS and WatchOS
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Keychain Access Framework.
+* [IAPHelper](https://github.com/saturngod/IAPHelper) - In App Purchases iOS Helper.
+* [Fastlane](https://fastlane.tools/) - Awesome tool for automating app deployment
 
 ## Design Patterns
 
