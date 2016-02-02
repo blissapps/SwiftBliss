@@ -4,14 +4,35 @@
 
 ##### Network
 
-* [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
-* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - To deal with JSON data in Swift
+* [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - To deal with JSON data in Swift.
 
 ##### UI
 
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - ImagePicker that shows both gallery and camera.
-* [TextField Effects](https://github.com/raulriera/TextFieldEffects) - Multiple styles of UITextFields
+* [TextField Effects](https://github.com/raulriera/TextFieldEffects) - Multiple styles of UITextFields.
+* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - To deal with empty UITableView and UICollectionView.
+* [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar) - A simple Calendar / Date Picker for iOS using UICollectionView.
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - Flat Color Framework.
+* [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD) - Drop in progress HUD for multiple purposes.
+* [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - A drop in viewcontroller to use in messaging apps, developed by Slack.
+* [SnapKit](https://github.com/SnapKit/SnapKit) - Use autolayout in code easily
+* [Spring](https://github.com/MengTo/Spring) - Implement animations seamlessly
+* [iOSCharts](https://github.com/danielgindi/ios-charts) - Multiple chart types for iOS
 
+##### Persistance
+
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Easy way to use CoreData.
+
+##### Testing
+
+* [Quick](https://github.com/Quick/Quick) - Testing framework for both swift and Objective-C
+
+##### Misc
+
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Keychain Access Framework
+* [IAPHelper](https://github.com/saturngod/IAPHelper) - In App Purchases iOS Helper
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Reactive programming for iOS, OSX, TVOS and WatchOS
 
 ### Design Patterns
 
