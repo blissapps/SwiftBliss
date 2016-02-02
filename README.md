@@ -1,6 +1,6 @@
 # SwiftBliss <img src="http://www.carlosicaza.com/wp-content/uploads/2014/07/Swift-logo.png" width="36">
 
-### Awesome Swift Libraries :white_check_mark:
+## Awesome Swift Libraries :white_check_mark:
 
 ##### Network
 
@@ -34,12 +34,12 @@
 * [IAPHelper](https://github.com/saturngod/IAPHelper) - In App Purchases iOS Helper
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Reactive programming for iOS, OSX, TVOS and WatchOS
 
-### Design Patterns
+## Design Patterns
 
 * [Singleton](DesignPatterns/Singleton.md)
 * [Protocols](DesignPatterns/Protocols.md)
 
-### Must Read Articles
+## Must Read Articles
 
 #### General stuff 
 
@@ -50,7 +50,7 @@
 * [Mixins&Traits](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/) - Mixins over inheritance in Swift 
 * [UIStoryboardsSafer](https://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d#.tv7mosmfh) - UIStoryboard: Safer with Enums, Protocol Extensions and Generics
 
-### Resources
+## Resources
 
 #####Lib repositories
 
