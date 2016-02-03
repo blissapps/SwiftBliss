@@ -74,7 +74,7 @@
 
 ## Resources
 
-#####Lib repositories
+##### Lib repositories
 
 * [iOS Cookies](http://www.ioscookies.com/) - Swift
 * [Swift Toolbox](http://www.swifttoolbox.io/) - Swift
@@ -98,6 +98,7 @@
 * [FRP iOS Learning Resources](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 # To Do:
+- [ ] Start including acknowledgements of dependencies as explained [here](https://github.com/CocoaPods/CocoaPods/wiki/Acknowledgements)
 - [ ] Adopt Swift style and conventions. (https://github.com/realm/SwiftLint)
 - [ ] Design patterns (Delegate, KVO, etc) 
 - [ ] Books :books:
