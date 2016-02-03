@@ -21,6 +21,7 @@
 
 ##### Persistance
 
+* [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Easy way to use CoreData.
 * [Realm](https://realm.io/) - (Better) Alternative to CoreData.
 
@@ -46,6 +47,7 @@
 
 ##### Misc
 
+* [ICanHas](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (location, push notifications, camera, contacts, calendar, photos, etc).
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Keychain Access Framework.
 * [IAPHelper](https://github.com/saturngod/IAPHelper) - In App Purchases iOS Helper.
 * [Fastlane](https://fastlane.tools/) - Awesome tool for automating app deployment
