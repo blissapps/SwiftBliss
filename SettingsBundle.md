@@ -2,7 +2,7 @@
 
 # Add Acknowledgements to your App settings
 ## How To Do It
--Add [Settings.bundle](https://github.com/blissapps/SwiftBliss/SettingsBundle/blob/master/Settings.bundle) to your project (don't forget to add it to your targets)
+-Add [Settings.bundle](https://github.com/blissapps/SwiftBliss/blob/master/SettingsBundle/Settings.bundle) to your project (don't forget to add it to your targets)
 
 -In your Podfile add (watch out for the paths!!!)
 
@@ -17,11 +17,14 @@ post_install do | installer |
     FileUtils.cp_r('Pods/Target Support Files/Pods-Embly/Pods-Embly-acknowledgements.plist', 'Embly/Resources/Settings.bundle/Acknowledgements.plist', :remove_destination => true)
 end
 
+### Notes
+More info [here](https://github.com/CocoaPods/CocoaPods/wiki/Acknowledgements)
+
 # Add version to your App settings
 ## How To Do It
--Add [Settings.bundle](https://github.com/blissapps/SwiftBliss/SettingsBundle/blob/master/Settings.bundle) to your project (The same from above)
+-Add [Settings.bundle](https://github.com/blissapps/SwiftBliss/blob/master/SettingsBundle/Settings.bundle) to your project (The same from above)
 
--Add [settings-script.sh](https://github.com/blissapps/SwiftBliss/SettingsBundle/blob/master/settings-script.sh) to your project (but DON'T include it in your targets because that would be just stupid)
+-Add [settings-script.sh](https://github.com/blissapps/SwiftBliss/blob/master/SettingsBundle/settings-script.sh) to your project (but DON'T include it in your targets because that would be just stupid)
 
 -Add a new Run Script to your Project Target > Build Phases "${SRCROOT}/settings-script.sh" (if you put the script elsewhere mind the path)
 

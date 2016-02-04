@@ -7,7 +7,7 @@
 
 
 # To Do:
-- [ ] Start including acknowledgements of dependencies as explained [here](https://github.com/CocoaPods/CocoaPods/wiki/Acknowledgements)
+- [ ] Start including acknowledgements of dependencies as explained [here](https://github.com/blissapps/SwiftBliss/blob/master/SettingsBundle.md)
 - [ ] Adopt Swift style and conventions. (https://github.com/realm/SwiftLint)
 - [ ] Design patterns (Delegate, KVO, etc) 
 - [ ] Books :books:
