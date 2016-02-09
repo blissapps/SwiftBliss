@@ -39,7 +39,7 @@
 
 
 ##### JSON
-* [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. (From the dudes at BigNerdRanch - [Link](https://www.bignerdranch.com/blog/introducing-freddy-an-open-source-framework-for-parsing-json-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_72), [SwiftyJSON vs. Freddy](http://yannickloriot.com/2016/02/json-library-comparison-in-swift/))
+* [Freddy](https://github.com/bignerdranch/Freddy) - A reusable framework for parsing JSON in Swift. ([From the dudes at BigNerdRanch](https://www.bignerdranch.com/blog/introducing-freddy-an-open-source-framework-for-parsing-json-in-swift/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_72) - [SwiftyJSON vs. Freddy](http://yannickloriot.com/2016/02/json-library-comparison-in-swift/))
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - To deal with JSON data in Swift. (Probably not the best use since if let can now be chained)
 * [JSONHelper](https://github.com/isair/JSONHelper) - Simple yet powerful value conversion and JSON data handling library for Mac, iOS, and tvOS.
 
