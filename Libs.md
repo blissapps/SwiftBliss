@@ -28,6 +28,7 @@
 
 * [Quick](https://github.com/Quick/Quick) - Testing framework for both swift and Objective-C
 * [Knuff](https://github.com/KnuffApp/Knuff) - Test push notifications
+* [NWPusher](https://github.com/noodlewerk/NWPusher) - Test push notifications
 
 ##### Reactive Programming
 
