@@ -5,7 +5,7 @@
 
 ### Alternative 1:
 
-*[EasyAbout](https://github.com/JARMourato/EasyAbout) 
+[EasyAbout](https://github.com/JARMourato/EasyAbout) 
 
 ### Alternative 2:
 
