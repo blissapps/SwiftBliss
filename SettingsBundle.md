@@ -2,6 +2,13 @@
 
 # Add Acknowledgements to your App settings
 ## How To Do It
+
+### Alternative 1:
+
+*[EasyAbout](https://github.com/JARMourato/EasyAbout) 
+
+### Alternative 2:
+
 -Add [Settings.bundle](https://github.com/blissapps/SwiftBliss/blob/master/SettingsBundle/Settings.bundle) to your project (don't forget to add it to your targets)
 
 -In your Podfile add (watch out for the paths!!!)
