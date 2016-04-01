@@ -17,6 +17,8 @@
 * [SnapKit](https://github.com/SnapKit/SnapKit) - Use autolayout in code easily.
 * [Spring](https://github.com/MengTo/Spring) - Implement animations seamlessly.
 * [iOSCharts](https://github.com/danielgindi/ios-charts) - Multiple chart types for iOS.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
+
 
 ##### Persistance
 
