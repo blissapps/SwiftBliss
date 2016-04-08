@@ -19,8 +19,11 @@
 * [iOSCharts](https://github.com/danielgindi/ios-charts) - Multiple chart types for iOS.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
 
+##### Dependency Injection
 
-##### Persistance
+* [Swinject](https://github.com/Swinject/Swinject) - DI with swift
+
+##### Persistence
 
 * [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for CoreData in Swift.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) - Easy way to use CoreData.

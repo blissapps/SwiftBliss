@@ -9,7 +9,9 @@
 
 #### Design
 
-* [iOS Res](http://iosres.com/) - Quick reference guide for iOS device resolutions 
+* [iOS Res](http://iosres.com/) - Quick reference guide for iOS device resolutions
+
+
 
 #### Sites/Blogs/Etc
 
